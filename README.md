@@ -12,5 +12,6 @@
 ![replit](https://user-images.githubusercontent.com/81291690/173848851-91e99579-4a39-4b08-9f9e-f00b099ba229.svg)
 
 # Database
-I am using https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-I am looking for MYSQL  https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+I am using ![mongo](https://user-images.githubusercontent.com/81291690/173849274-11068cb9-1697-4007-ac52-b777ba0095f8.svg)
+I am looking for MYSQL ![mysql](https://user-images.githubusercontent.com/81291690/173849291-c03a8d2a-48a1-4710-996d-2516ae179411.svg)
+
