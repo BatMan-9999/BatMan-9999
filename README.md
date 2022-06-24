@@ -15,4 +15,3 @@
 I am using ![mongo](https://user-images.githubusercontent.com/81291690/173849274-11068cb9-1697-4007-ac52-b777ba0095f8.svg)
 
 I am looking for free 24/7 MYSQL ![mysql](https://user-images.githubusercontent.com/81291690/173849291-c03a8d2a-48a1-4710-996d-2516ae179411.svg)
-
